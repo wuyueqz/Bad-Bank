@@ -1,0 +1,28 @@
+{
+  "name": "littledb",
+  "version": "1.0.0",
+  "description": "small json data store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1125f16/littledb.git"
+  },
+  "keywords": [
+    "data",
+    "store"
+  ],
+  "author": "abelsan <abel@mit.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1125f16/littledb/issues"
+  },
+  "homepage": "https://github.com/1125f16/littledb#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lowdb": "^1.0.0",
+    "superagent": "^4.0.0-beta.5"
+  }
+}
